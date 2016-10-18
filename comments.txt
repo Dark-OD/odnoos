@@ -1,0 +1,10 @@
+1- file class.acl dar in masir gharar dade shavad ::
+
+project_name/include/cms
+
+2- in code dar in in file ghara dade shavad:: 
+$acl = new acl;
+$GLOBALS['acl'] = $acl;
+
+project_name/22admin92/index.php
+

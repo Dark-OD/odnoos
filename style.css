@@ -1,0 +1,19 @@
+.showicon {
+
+    background: #696767;
+    border-radius: 5px;
+    color: #ffffff !important;
+    cursor: pointer;
+    float: right;
+    font-family: BYekan;
+
+    font-size: 10pt;
+
+    line-height: 10px;
+
+    margin: 5px;
+
+    padding:8px 15px;
+
+}
+a.showicon:hover {background:#A09C9C !important}
